@@ -79,19 +79,23 @@ In the figure below show(s) the conditions implementing the ideals of Defense St
 Knight - 1 Physical (Melee) Attack & 3 Defense
 Mage   - 1 Spell (Power) Attack & 1 Defense (It is still 1 defense due to its exclusivity only for one class)
 Archer - 1 Bow   (Range) Attack & 1 Defense (It is still 1 defense due to its exclusivity only for one class)
+![DEFENSE_STRATEGY](https://github.com/VinceTedChua/strategyPattern/assets/142372312/9f2f5370-48a5-4f4f-8bc7-e8fac56b4938)
 
-![DEFENSE_STRATEGY](https://github.com/VinceTedChua/strategyPattern/assets/142372312/a241c155-87a4-43f7-a82c-7b34103eb000)
+
 
 Strategy Pattern #1: Shows how Knight is executed:
 
-![STRATEGY_PATTERN_1_JAVA](https://github.com/VinceTedChua/strategyPattern/assets/142372312/1d531a9f-6eb8-42e2-bc85-e2ad676d8c92)
+![STRATEGY_PATTERN_1_JAVA](https://github.com/VinceTedChua/strategyPattern/assets/142372312/1f023fdc-804f-481a-ba4c-ab78c781cd71)
+
 
 Strategy Pattern #2: Shows how Mage is executed:
 
-![STRATEGY_PATTERN_2_JAVA](https://github.com/VinceTedChua/strategyPattern/assets/142372312/bfcf713f-b018-4fc2-8dfd-6eaab0c10468)
+![STRATEGY_PATTERN_2_JAVA](https://github.com/VinceTedChua/strategyPattern/assets/142372312/c96edb2a-ae0a-4597-8930-e2a34d3b999a)
+
 
 Strategy Pattern #3: Shows how Archer is executed:
 
-![STRATEGY_PATTERN_3](https://github.com/VinceTedChua/strategyPattern/assets/142372312/fa9bbd73-c06b-4ffd-96cd-e78567debc1b)
+![STRATEGY_PATTERN_3](https://github.com/VinceTedChua/strategyPattern/assets/142372312/7879637c-821d-4c3f-bead-5ddf58e48ec0)
+
 
 
