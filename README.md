@@ -66,6 +66,7 @@ public class Character {
 
 # UML-DIAGRAM IMPLEMENTATION
 
+<img width="1284" alt="CSL322-18_UML_STRATEGY_PATTERN_WK3-4_CHUA_VINCE" src="https://github.com/VinceTedChua/strategyPattern/assets/142372312/072f0546-f7a7-4a06-9d24-b7712fec915d">
 
 
 
