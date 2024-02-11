@@ -74,3 +74,24 @@ public class Character {
 
 # JAVA Code-Solutions
 
+In the figure below show(s) the conditions implementing the ideals of Defense Styles exclusively for Knight Implementing:
+
+Knight - 1 Physical (Melee) Attack & 3 Defense
+Mage   - 1 Spell (Power) Attack & 1 Defense (It is still 1 defense due to its exclusivity only for one class)
+Archer - 1 Bow   (Range) Attack & 1 Defense (It is still 1 defense due to its exclusivity only for one class)
+
+![DEFENSE_STRATEGY](https://github.com/VinceTedChua/strategyPattern/assets/142372312/a241c155-87a4-43f7-a82c-7b34103eb000)
+
+Strategy Pattern #1: Shows how Knight is executed:
+
+![STRATEGY_PATTERN_1_JAVA](https://github.com/VinceTedChua/strategyPattern/assets/142372312/1d531a9f-6eb8-42e2-bc85-e2ad676d8c92)
+
+Strategy Pattern #2: Shows how Mage is executed:
+
+![STRATEGY_PATTERN_2_JAVA](https://github.com/VinceTedChua/strategyPattern/assets/142372312/bfcf713f-b018-4fc2-8dfd-6eaab0c10468)
+
+Strategy Pattern #3: Shows how Archer is executed:
+
+![STRATEGY_PATTERN_3](https://github.com/VinceTedChua/strategyPattern/assets/142372312/fa9bbd73-c06b-4ffd-96cd-e78567debc1b)
+
+
